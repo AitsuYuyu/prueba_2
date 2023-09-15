@@ -1,0 +1,9 @@
+*{
+    margin: 0 auto;
+}
+body{
+    color: black;
+    background-color: gray;
+    font-family: arial;
+    text-align: center;
+}
